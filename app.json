@@ -1,5 +1,6 @@
 {
   "expo": {
+    "scheme":"nativetodo",
     "name": "todonative",
     "slug": "todonative",
     "version": "1.0.0",
